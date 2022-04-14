@@ -6,6 +6,11 @@ from matplotlib.figure import Figure
 # 換成中文的字體
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei']
 plt.rcParams['axes.unicode_minus'] = False  # 步驟二（解決座標軸負數的負號顯示問題）
+#########
+#測試用的 #
+#       #
+#       #
+#########
 
 #### 第1題 ######
 #請自行到 openData 找自己感興趣的題目來做
